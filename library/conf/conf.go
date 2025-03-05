@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"simple-boot/library/env"
+	"github.com/liziwei01/simple-boot/library/env"
 )
 
 // Conf 配置解析定义接口

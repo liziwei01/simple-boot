@@ -11,7 +11,7 @@ import (
 	"context"
 	"log"
 
-	"simple-boot/library/env"
+	"github.com/liziwei01/simple-boot/library/env"
 
 	"github.com/gin-gonic/gin"
 )

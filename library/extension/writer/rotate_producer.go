@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"simple-boot/library/extension/timer"
+	"github.com/liziwei01/simple-boot/library/extension/timer"
 )
 
 // RotateInfo 文件信息

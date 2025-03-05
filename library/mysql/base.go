@@ -14,8 +14,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"simple-boot/library/conf"
-	"simple-boot/library/env"
+	"github.com/liziwei01/simple-boot/library/conf"
+	"github.com/liziwei01/simple-boot/library/env"
 )
 
 const (

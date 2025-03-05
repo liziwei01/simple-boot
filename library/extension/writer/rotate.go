@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"simple-boot/library/extension/fileclean"
+	"github.com/liziwei01/simple-boot/library/extension/fileclean"
 )
 
 // RotateOption NewRotate的参数
