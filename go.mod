@@ -1,4 +1,4 @@
-module simple-boot
+module github.com/liziwei01/simple-boot
 
 go 1.24.0
 
